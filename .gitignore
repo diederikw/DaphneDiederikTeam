@@ -1,0 +1,14 @@
+# Compressed files #
+######################
+*.tar.gz
+*.zip
+*.bin
+
+# Data #
+#######################
+glove.6B
+
+# Compiler files #
+####################
+*.pyc
+/.ipynb_checkpoints
